@@ -1,4 +1,4 @@
-带有请求按钮的EditText
+带有清除按钮的EditText
 ![](http://i.imgur.com/e997mxY.gif)
 Step 1. Add the JitPack repository to your build file 
 > Add it in your root build.gradle at the end of repositories:
